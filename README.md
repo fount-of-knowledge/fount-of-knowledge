@@ -1,6 +1,6 @@
 <div align="center">
 <img width="99" height="56" alt="изображение" src="https://github.com/user-attachments/assets/46522fa1-b0c2-457a-9e9d-f7573ff6e18f"/>
- ⠀ ⠀ ⠀ ⠀<img src="https://komarev.com/ghpvc/?username=fount-of-knowledge&color=3a50b1&label=✧++"/> ⠀ ⠀ ⠀ ⠀
+ ⠀ ⠀ <img src="https://komarev.com/ghpvc/?username=fount-of-knowledge&color=3a50b1&label=✧++"/> ⠀ ⠀ 
 <img width="99" height="56" alt="изображение" src="https://github.com/user-attachments/assets/86350696-7d0b-4af6-b93b-c80decc744c4" />
 
 
