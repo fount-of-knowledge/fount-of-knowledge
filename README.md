@@ -3,7 +3,7 @@
  ⠀ ⠀ <img src="https://komarev.com/ghpvc/?username=fount-of-knowledge&color=3a50b1&label=✧++"/> ⠀ ⠀ 
 <img width="99" height="56" alt="изображение" src="https://github.com/user-attachments/assets/86350696-7d0b-4af6-b93b-c80decc744c4" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=IM+Fell+Double+Pica&duration=1&pause=1000&color=C9E5FF&center=true&vCenter=true&width=435&height=28&lines=FoK+fictionkin.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IM+Fell+Double+Pica&duration=1&pause=1000&color=C9E5FF&center=true&vCenter=true&repeat=false&width=435&height=28&lines=FoK+fictionkin.)](https://git.io/typing-svg)
 </br>
 [atabook](https://truthful.atabook.org/) ✴︎ [pronouns page](https://pronouns.page/@purre) ✴︎ [text me](https://t.me/gbfrkxcnqg)
 
